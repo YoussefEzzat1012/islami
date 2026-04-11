@@ -18,6 +18,13 @@ class AppTheme {
         fontWeight: FontWeight.bold,
       ),
     ),
+      appBarTheme: AppBarTheme(
+        backgroundColor: AppColors.blackBgColor,
+        centerTitle: true,
+        iconTheme: IconThemeData(
+            color: AppColors.primaryColor
+        ),
+      )
     //canvasColor: AppColors.primaryColor
   );
 }

@@ -16,4 +16,11 @@ class AppAssets {
   static const String islami_logo = "assets/images/islami_logo.png";
   static const String search_icon = "assets/images/search_icon.png";
   static const String mostRecently = "assets/images/mostRecently.png";
+  static const String sura_vector = "assets/images/sura_vector.png";
+  static const String details_bg = "assets/images/details_bg.png";
+  static const String cornerRight = "assets/images/cornerRight.png";
+  static const String cornerLeft = "assets/images/cornerLeft.png";
+  static const String bottBg = "assets/images/bottBg.png";
+  static const String hadithCardBackGround =
+      "assets/images/HadithCardBackGround.png";
 }

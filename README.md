@@ -44,12 +44,19 @@ Flutter • Dart • Provider • REST APIs • Localization • Local JSON
 
 ## Screenshots
 
-<p float="left">
-  <img src="assets/screenshots/islamiHomePage.png" width="200"/>
-  <img src="assets/screenshots/quranPage.png" width="200"/>
-  <img src="assets/screenshots/islamiHadeethScreen.png" width="200"/>
-  <img src="assets/screenshots/islamiHadeethScreen2.png" width="200"/>
-</p>
+## Screenshots
+
+### Home Screen
+![Home](assets/screenShots/islamiHomaPage.png)
+
+### quran Screen
+![Login](assets/screenShots/quranPage.png)
+
+### Hadeeth Screen
+![Profile](assets/screenShots/islamiHadeethScreen.png)
+
+### Hadeeth Details Screen
+![Profile](assets/screenShots/islamiHadeethScreen1.png)
 
 ## 📂 Project Structure
 

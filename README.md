@@ -42,6 +42,15 @@ Flutter • Dart • Provider • REST APIs • Localization • Local JSON
 
 ---
 
+## Screenshots
+
+<p float="left">
+  <img src="assets/screenshots/islamiHomePage.png" width="200"/>
+  <img src="assets/screenshots/quranPage.png" width="200"/>
+  <img src="assets/screenshots/islamiHadeethScreen.png" width="200"/>
+  <img src="assets/screenshots/islamiHadeethScreen2.png" width="200"/>
+</p>
+
 ## 📂 Project Structure
 
 lib/

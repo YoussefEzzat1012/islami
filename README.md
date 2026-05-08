@@ -45,7 +45,7 @@ Flutter • Dart • Provider • REST APIs • Localization • Local JSON
 ## Screenshots
 
 ### Home Screen
-![Home](assets/screenShots/islamiHomaScreen.png)
+![Home](assets/screenShots/islamiHomeScreen.png)
 
 ### quran Screen
 ![Login](assets/screenShots/quranPage.png)

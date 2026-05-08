@@ -44,10 +44,8 @@ Flutter • Dart • Provider • REST APIs • Localization • Local JSON
 
 ## Screenshots
 
-## Screenshots
-
 ### Home Screen
-![Home](assets/screenShots/islamiHomaPage.png)
+![Home](assets/screenShots/islamiHomaScreen.png)
 
 ### quran Screen
 ![Login](assets/screenShots/quranPage.png)
@@ -56,7 +54,7 @@ Flutter • Dart • Provider • REST APIs • Localization • Local JSON
 ![Profile](assets/screenShots/islamiHadeethScreen.png)
 
 ### Hadeeth Details Screen
-![Profile](assets/screenShots/islamiHadeethScreen1.png)
+![Profile](assets/screenShots/hadeethPage2.png)
 
 ## 📂 Project Structure
 
